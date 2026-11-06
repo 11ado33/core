@@ -1,0 +1,15 @@
+{
+  "device": "Atmos Smart Clock",
+  "model": "ATMOS-SMART-CLOCK-001",
+  "version": "1.0.11",
+  "firmware_id": 11,
+  "status": "running",
+  "uptime": 11025,
+  "mac_address": "58:8C:81:41:C6:10",
+  "mode": "sta",
+  "wifi_connected": true,
+  "ip_address": "192.168.1.174",
+  "rssi": -42,
+  "brightness": 0,
+  "sensors_available": true
+}

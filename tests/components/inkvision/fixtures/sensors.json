@@ -1,0 +1,18 @@
+{
+  "timestamp": 11025,
+  "sensors_available": true,
+  "bme680": {
+    "temperature": 21.84023,
+    "humidity": 36.6,
+    "pressure": 1003.1,
+    "gas_resistance_kohm": 459.0745,
+    "iaq": 122.9184,
+    "iaq_accuracy": 1,
+    "static_iaq": 86.49383,
+    "co2_equivalent": 864.9383,
+    "breath_voc": 1.143779,
+    "iaq_rating": "Fair",
+    "temperature_offset": 0,
+    "humidity_offset": 0
+  }
+}

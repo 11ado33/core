@@ -400,6 +400,7 @@ FLOWS = {
         "inels",
         "influxdb",
         "inkbird",
+        "inkvision",
         "insteon",
         "intelliclima",
         "intellifire",

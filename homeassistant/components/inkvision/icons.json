@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "sensor": {
+      "gas_resistance": {
+        "default": "mdi:omega"
+      },
+      "indoor_air_quality": {
+        "default": "mdi:air-filter"
+      }
+    }
+  }
+}

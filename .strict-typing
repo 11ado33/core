@@ -335,6 +335,7 @@ homeassistant.components.indevolt.*
 homeassistant.components.indi_allsky.*
 homeassistant.components.inels.*
 homeassistant.components.infrared.*
+homeassistant.components.inkvision.*
 homeassistant.components.input_button.*
 homeassistant.components.input_select.*
 homeassistant.components.input_text.*

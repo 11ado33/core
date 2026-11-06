@@ -643,6 +643,14 @@ ZEROCONF = {
             "name": "igen_fw*",
         },
         {
+            "domain": "inkvision",
+            "name": "atmos*",
+        },
+        {
+            "domain": "inkvision",
+            "name": "homebrainz*",
+        },
+        {
             "domain": "lektrico",
             "name": "lektrico*",
         },

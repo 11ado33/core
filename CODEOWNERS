@@ -945,6 +945,8 @@ CLAUDE.md @home-assistant/core
 /tests/components/infrared/ @home-assistant/core
 /homeassistant/components/inkbird/ @bdraco
 /tests/components/inkbird/ @bdraco
+/homeassistant/components/inkvision/ @11ado33
+/tests/components/inkvision/ @11ado33
 /homeassistant/components/input_boolean/ @home-assistant/core
 /tests/components/input_boolean/ @home-assistant/core
 /homeassistant/components/input_button/ @home-assistant/core

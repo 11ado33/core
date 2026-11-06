@@ -2387,6 +2387,9 @@ pyicloud==2026.10.1
 # homeassistant.components.imou
 pyimouapi==1.4.4
 
+# homeassistant.components.inkvision
+pyinkvision==0.1.0
+
 # homeassistant.components.insteon
 pyinsteon==1.7.0
 
